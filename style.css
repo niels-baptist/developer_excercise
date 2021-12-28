@@ -49,3 +49,15 @@
 #popupText {
 	margin-right: 23px;
 }
+
+.blue{
+	color: #4477aa;
+}
+
+.red{
+	color: #cc6677;
+}
+
+.bold{	
+	font-weight: bold;
+}
