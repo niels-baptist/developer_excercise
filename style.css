@@ -1,3 +1,6 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
 .flex-container {
 	display: flex;
 	flex-wrap: wrap;
@@ -54,8 +57,26 @@
 	color: #4477aa;
 }
 
+.blue-background{
+	background-color: #4477aa;
+	color: #fff;
+}
+
 .red{
 	color: #cc6677;
+}
+
+.red-background{
+	background-color: #cc6677;
+	color: #fff;
+}
+
+.green{
+	color: #009845;
+}
+
+.purple{
+	color: #886F91;
 }
 
 .bold{	
